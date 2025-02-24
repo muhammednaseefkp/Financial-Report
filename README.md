@@ -1,5 +1,7 @@
+FINANCIAL REPORT
 🔗 Project Link
-GitHub Repository (Replace with actual link)
+
+GitHub Repository https://github.com/muhammednaseefkp/Financial-Report
 
 📋Project Overview
 The Power BI Financial and Sales Analytics Dashboard is a comprehensive financial analytics tool built using Microsoft Power BI. It provides in-depth insights into sales performance, revenue trends, and overall financial health of an organization.
