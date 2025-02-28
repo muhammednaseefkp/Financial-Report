@@ -69,4 +69,5 @@ Open a Pull Request.
 
 📧 Contact
 For any questions or suggestions, feel free to reach out through GitHub Issues.
-  Muhammednaseef360@gmail
+  [Muhammednaseef360@gmail]
+  
